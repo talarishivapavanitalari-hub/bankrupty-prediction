@@ -1,3 +1,11 @@
+> 🎓 **Academic Mini Project**
+>
+> This project was developed as part of a **B.Tech academic mini-project** to understand and demonstrate the practical application of machine learning classification techniques.
+>
+> The objective is to compare **Decision Tree** and **Gradient Boosting** models on a publicly available bankruptcy dataset and study their performance using standard evaluation metrics.
+>
+> This is an **educational project and not a production-ready financial risk assessment system**.
+> 
 # 🏦 Corporate Bankruptcy Prediction
 
 A machine learning study comparing **Decision Tree** and **Gradient Boosting** classifiers for predicting corporate bankruptcy using financial ratio data.
