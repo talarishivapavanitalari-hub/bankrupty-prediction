@@ -239,9 +239,9 @@ Through this project, I explored:
 
 ## 👤 Author
 
-**Pavani Talarishiva**
+**Talari Shiva Pavani**
 
-B.Tech — Computer Science & Engineering
+B.Tech — Computer Science & Engineering (Data Science)
 
 Interested in **Machine Learning, Data Science, Business, and Entrepreneurship**.
 
